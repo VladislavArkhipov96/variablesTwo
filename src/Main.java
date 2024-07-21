@@ -53,7 +53,7 @@ public class Main {
         System.out.println("За 20 минут машина произвела " + countOfBottles1 + " штук бутылок");
         System.out.println("За 1 сутки машина произвела " + countOfBottles2 + " штук бутылок");
         System.out.println("За 3 дня машина произвела " + countOfBottles3 + " штук бутылок");
-        System.out.println("За 3 месяца машина произвела " + countOfBottles4 + " штук бутылок");
+        System.out.println("За 1 месяц машина произвела " + countOfBottles4 + " штук бутылок");
 
         //Task 5
         System.out.println("Task 5");
@@ -89,9 +89,9 @@ public class Main {
 
         System.out.println("Task 7");
 
-        int weightToLose = 7 * 1000;
-        int losePerDay1 = 250;
-        int losePerDay2 = 500;
+        short weightToLose = 7 * 1000;
+        short losePerDay1 = 250;
+        short losePerDay2 = 500;
 
         int countOfDay1 = weightToLose / losePerDay1;
         int countOfDay2 = weightToLose / losePerDay2;
