@@ -53,7 +53,7 @@ public class Main {
         System.out.println("За 20 минут машина произвела " + countOfBottles1 + " штук бутылок");
         System.out.println("За 1 сутки машина произвела " + countOfBottles2 + " штук бутылок");
         System.out.println("За 3 дня машина произвела " + countOfBottles3 + " штук бутылок");
-        System.out.println("За 1 месяц машина произвела " + countOfBottles4 + " штук бутылок");
+        System.out.println("За 1 месяца машина произвела " + countOfBottles4 + " штук бутылок");
 
         //Task 5
         System.out.println("Task 5");
